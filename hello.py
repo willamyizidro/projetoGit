@@ -1,2 +1,1 @@
-a = input("digite um valor qualquer")
-print(a)
+print("Hello World")
